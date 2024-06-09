@@ -4,6 +4,18 @@ Files and instructions to configure the thumbnail view of FreeCAD files in GNU/L
 ### Installation on Debian-based distributions
 
 - Open a terminal
+- Download the .zip file
+```
+wget https://github.com/andesfreedesign/FreeCAD-thumbnailer/archive/refs/heads/main.zip
+```
+- Unzip the downloaded file
+```
+unzip main.zip
+```
+- Change to unzipped folder
+```
+cd FreeCAD-thumbnailer-main
+```
 - Copy the executable file
 
 ```
